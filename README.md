@@ -1,6 +1,9 @@
 # x86-Assembly-Street-Fighter-Clone
 A project I did a long time ago. This is written for DOS-BOX v0.74-2, for anyone intereseted in running it. The graphics are, of course, not mine.
 
+![alt text](https://github.com/SygyzyH/x86-Assembly-Street-Fighter-Clone/blob/main/ASST/Thumbnail.PNG?raw=true)
+
+
 ## Running instructions
 In order to run this, you will need some sort of emulator. As stated before, I used DOS-BOX. First, you must mount your drives. Do this by typing:
 ```
